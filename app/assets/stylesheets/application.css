@@ -14,12 +14,11 @@
  *= require_self
  */
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 #notice {
   color: green;
+}
+
+table {
+	border-collapse: separate;
+	border-spacing: 10px 10px;
 }
